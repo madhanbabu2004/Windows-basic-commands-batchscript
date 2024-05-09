@@ -18,26 +18,23 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
-## COMMAND AND OUTPUT
+
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
-![output](./a.png)
-## COMMAND AND OUTPUT
+
 List the contents of the "MyLab" directory.
-![output](./b.png)
 ![output](./c.png)
 ## COMMAND AND OUTPUT
-Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
-![output](./e.png)
+Copy "MyFile.txt" to a new folder named "Backup" on the desktop. 
+![output](./d.png)
 ## COMMAND AND OUTPUT
 Move the "MyLab" directory to the "Documents" folder.
-![output](./f.png)
-![output](./h.png)
-## COMMAND AND OUTPUT
-![output](./i.png)
+![output](./e.png)
+
 ## Exercise 2: Advanced Batch Scripting
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
-## OUTPUT
-![output](./j.png)
-# RESULT:
-The commands/batch files are executed successfully.
 
+## OUTPUT
+![output](./f.png)
+![output](./g.png)
+## RESULT:
+The commands/batch files are executed successfully.
